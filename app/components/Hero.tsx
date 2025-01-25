@@ -36,7 +36,7 @@ export default function Hero({
             {/* <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p> */}
             <p className="text-[0.8rem]">
               Jl. Kemang Kp. Kekupu RT.03/06 No. 65 Kelurahan Pasir Putih
-              Kecamatan Sawangan Kota Depok 
+              Kecamatan Sawangan Kota Depok  
             </p>
             {/* <p>{tamu}</p> */}
             <RevealWrapper duration={4000} origin="bottom">
