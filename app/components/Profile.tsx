@@ -21,7 +21,7 @@ function Profile() {
             <RevealWrapper duration={1500} origin="bottom">
               <p className="text-[0.75rem] tracking-[5px] flex gap-2.5 text-[#424242] text-center">
                 <span>THE</span>
-                <span>BRIDE</span>
+                <span>GROOM</span>
               </p>
             </RevealWrapper>
           </div>
@@ -65,7 +65,7 @@ function Profile() {
             <RevealWrapper duration={1500} origin="bottom">
               <p className="text-[0.75rem] tracking-[5px] flex gap-2.5 text-[#424242] text-center">
                 <span>THE</span>
-                <span>GROOM</span>
+                <span>BRIDE</span>
               </p>
             </RevealWrapper>
           </div>
