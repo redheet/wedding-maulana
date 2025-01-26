@@ -29,7 +29,7 @@ const CountdownComp: React.FC = () => {
 
   return (
     <section id="countdown">
-      <div className="min-h-screen bg-[url('/images/countdown/2.png')] bg-cover bg-[44.5%] text-white relative py-28 flex items-end">
+      <div className="min-h-screen bg-[url('/images/countdown/2.jpg')] bg-cover bg-[44.5%] text-white relative py-28 flex items-end">
         <div className="absolute inset-0 bg-black/30" />
         <div className="relative py-8 px-10 w-full">
           <div
