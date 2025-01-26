@@ -25,19 +25,17 @@ function CardRek() {
               <div className="flex justify-between">
                 <div className="">
                   <p className="font-light">Name </p>
-                  <p className="font-bold tracking-widest">
-                    Aura Latifah Rahman
-                  </p>
+                  <p className="font-bold tracking-widest">Maulana Yusup</p>
                 </div>
                 <img className="w-14 h-4" src="/images/cardrek/bca-logo.png" />
               </div>
               <br />
               <div className="pt-1">
                 <p className="font-light">Card Number</p>
-                <p className="font-bold tracking-more-wider">1672176390</p>
+                <p className="font-bold tracking-more-wider">7151537573</p>
                 <button
                   className="bg-orange-400 ml-[190px] text-white font-bold py-2 px-4 rounded inline-flex items-center"
-                  onClick={() => copy("1672176390")}
+                  onClick={() => copy("7151537573")}
                 >
                   <svg
                     viewBox="0 0 1024 1024"
@@ -53,7 +51,6 @@ function CardRek() {
             </div>
           </div>
 
-          
           {/* <p className="text-center text-[0.75rem] leading-loose text-white mx-8 italic ">
             Tiada Yang Dapat Kami Ungkapkan Selain Rasa Terimakasih dari Hati
             Yang Tulus Apabila Bapak/ Ibu/ Saudara/i Berkenan Hadir Untuk
