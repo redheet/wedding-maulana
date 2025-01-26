@@ -5,7 +5,7 @@ import { RevealWrapper } from "next-reveal";
 function WeddingEvents() {
   return (
     <section id="wedding-events">
-      <div className="bg-[url('/images/weddingEvents/bg.jpeg')] bg-cover bg-center relative px-8 pt-8 pb-12 lg:px-10 lg:pt-10 lg:pb-14">
+      <div className="bg-[url('/images/weddingEvents/AURA-MAULANA-14.webp')] bg-cover bg-center relative px-8 pt-8 pb-12 lg:px-10 lg:pt-10 lg:pb-14">
         <div className="bg-transparent bg-[linear-gradient(360deg,#EAEAEA_53%,#424242_100%)] opacity-90 absolute inset-0"></div>
         <div className="z-10 relative">
           <h1 className="text-4xl italic text-white text-center font-light font-sans">
@@ -54,7 +54,7 @@ function WeddingEvents() {
           <RevealWrapper duration={1500} origin="bottom">
             <div className="mt-6">
               <img
-                src="/images/weddingEvents/AURA-MAULANA-14.webp"
+                src="/images/weddingEvents/2.jpg"
                 alt="akad"
                 className="w-full h-72 object-cover rounded-t-[1.25rem] object-left"
               />
