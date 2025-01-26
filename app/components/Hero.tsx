@@ -25,7 +25,7 @@ export default function Hero({
           <div>
             <p className="font-extralight text-[0.75rem] ">The Wedding of</p>
             <h1 className="text-4xl font-light mt-2 font-sans">
-              Aura & Maulana
+              Maulana & Aura
             </h1>
             <p className="font-extralight text-[0.8rem] mt-4">
               Minggu, 2 februari 2025
@@ -36,7 +36,7 @@ export default function Hero({
             {/* <p className="text-[0.8rem]">Kediaman Mempelai Wanita</p> */}
             <p className="text-[0.8rem]">
               Jl. Kemang Kp. Kekupu RT.03/06 No. 65 Kelurahan Pasir Putih
-              Kecamatan Sawangan Kota Depok  
+              Kecamatan Sawangan Kota Depok
             </p>
             {/* <p>{tamu}</p> */}
             <RevealWrapper duration={4000} origin="bottom">
